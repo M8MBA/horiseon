@@ -1,6 +1,6 @@
 # HTML, CSS, and Git: Code Refactor
 
-<img src="./images/screenshot.png">
+![screenshot](https://user-images.githubusercontent.com/97080366/151676084-374f6448-94ff-4c76-b02d-8bd5be24d6b7.png)
 
 ## Purpose
 
